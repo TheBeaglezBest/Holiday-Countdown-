@@ -1,0 +1,22 @@
+body {
+  background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/hd/f36f96110033033.5fe1ffacddc8b.gif');
+  background-size: cover;
+  background-position: center;
+  color: black;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#holiday-name {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#countdown {
+  font-size: 48px;
+  font-weight: bold;
+}
